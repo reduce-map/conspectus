@@ -43,4 +43,4 @@ Example
 
 Simple
 
-![img](1.png)
+![img](img/1.png)
