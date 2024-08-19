@@ -1,0 +1,70 @@
+# Testing Strategy
+
+- **Goals**
+- **Business Context**
+- **Quality Drivers**
+- **Quality Definition and Criteria**
+- **Metrics and Reporting**
+  - Using JIRA for Reporting
+  - Using TestRail for Reporting
+  - Using Grafana and Prometheus for Reporting
+  - Using SonarQube for Reporting
+- **Test Management**
+  - Checklist Format
+  - Using TestRail for Checklist Management
+- **Defect Management**
+  - Defect Classification
+    - 1. Improvement Needed
+    - 2. Blocking Issue
+    - 3. Regression Defect
+    - 4. Requirement Misunderstanding
+    - 5. Client/User Reported Defect
+  - Defect Flow from Various Sources
+  - Defect Description in JIRA
+  - Defect Description in Slack
+  - Defect Severity
+  - Defect Priority
+- **Logical Test Distribution**
+  - Unit Testing
+  - Integration Testing
+    - Microservice to Database Integration
+    - Microservices Integration
+    - Microservice API
+    - Integration with External Services
+  - System Testing
+  - Functional Testing
+    - Smoke Testing
+    - Regression Testing
+  - Acceptance Testing
+  - Non-Functional Testing
+    - Cross-Browser Testing
+    - Security Testing
+    - Performance Testing
+    - Load Testing
+    - Localization Testing
+- **Test Automation**
+  - Backend Automation Approach
+  - Frontend Automation Approach
+  - System Testing Automation
+- **Non-Functional Requirements**
+  - Localization
+  - Load and Performance
+  - Accessibility
+  - Security
+  - Cross-Browser Compatibility
+  - System Source Code
+- **Test Data Management**
+- **Test Environments**
+  - Integration with External Services
+- **Development Process**
+  - Quality Assurance within Iterations
+  - Quality Assurance within Releases
+- **Risks**
+  - Test Automation
+  - Performance
+  - External Services
+  - Team
+- **Team**
+  - Responsibilities
+  - Required Skills, Hiring, and Training
+- **Tools**
