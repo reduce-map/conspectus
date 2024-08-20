@@ -185,3 +185,19 @@
 - **Lazy Loading:** Delays the loading of non-essential resources until they are needed, improving the initial load time of the application.
 - **Modal Window:** Uses overlay windows to focus the user's attention on a specific task or information, commonly used for dialogs or notifications.
 - **Infinite Scroll:** Continuously loads new content as the user scrolls down the page, enhancing user experience by avoiding pagination.
+
+## Principles
+
+### SOLID Principles
+- **Single Responsibility Principle (SRP):** A class should have only one reason to change, meaning it should have only one job.
+- **Open/Closed Principle (OCP):** Objects or entities should be open for extension but closed for modification.
+- **Liskov Substitution Principle (LSP):** Objects of a superclass shall be replaceable with objects of its subclasses without breaking the application.
+- **Interface Segregation Principle (ISP):** No client should be forced to depend on methods it does not use.
+- **Dependency Inversion Principle (DIP):** High-level modules should not depend on low-level modules; both should depend on abstractions.
+
+### Other Foundational Principles
+- **DRY (Don't Repeat Yourself):** Encourages the reduction of repetition within code.
+- **KISS (Keep It Simple, Stupid):** Advocates for simplicity in design.
+- **YAGNI (You Aren't Gonna Need It):** Focuses on adding functionality only when it is necessary.
+- **Law of Demeter (LoD) or Principle of Least Knowledge:** Promotes minimal knowledge of an object beyond its immediate dependencies.
+- **Composition Over Inheritance:** Prefers object composition over class inheritance for reusing code.
