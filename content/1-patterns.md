@@ -201,3 +201,4 @@
 - **YAGNI (You Aren't Gonna Need It):** Focuses on adding functionality only when it is necessary.
 - **Law of Demeter (LoD) or Principle of Least Knowledge:** Promotes minimal knowledge of an object beyond its immediate dependencies.
 - **Composition Over Inheritance:** Prefers object composition over class inheritance for reusing code.
+- **Inversion of Control (IoC):** Inversion of Control decouples the execution of tasks from their implementation, giving control over to the framework or infrastructure components. It's closely related to DIP as it involves relying on abstraction rather than concrete implementations.
