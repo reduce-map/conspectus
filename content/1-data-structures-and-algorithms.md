@@ -3,7 +3,11 @@
 - [Data Structures and Algorithms in JavaScript, big respect to trekhleb](https://github.com/trekhleb/javascript-algorithms)
   - [Data Structures](https://github.com/trekhleb/javascript-algorithms?tab=readme-ov-file#data-structures)
   - [Algorithms](https://github.com/trekhleb/javascript-algorithms?tab=readme-ov-file#algorithms)
+- [TheAlgorithms](https://github.com/TheAlgorithms)
+  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+  - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
 
+## Time Complexity
 - **O(1)**: Constant Time - The algorithm executes in fixed time, regardless of the input data size.
   - *Example*: Accessing an array element by index.
   - *Explanation*: Since an array allows direct access to its elements, accessing any element by index always takes the same amount of time.
